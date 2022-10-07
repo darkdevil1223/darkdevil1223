@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @darkdevil1223
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Sartak Gaikwad
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning react and solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sarthakrg14@gamil.com
 
