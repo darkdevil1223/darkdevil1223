@@ -7,9 +7,7 @@ and expand my skill set through
 mentorship and challenging
 projects. I enjoy working
 collaboratively but can also run
-with projects independently. I am
-excited about the prospect of
-joining a your company.</h3>
+with projects independently.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkdevil1223&label=Profile%20views&color=0e75b6&style=flat" alt="darkdevil1223" /> </p>
