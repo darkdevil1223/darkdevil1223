@@ -14,7 +14,7 @@ with projects independently.</h3>
 
 <p align="left"> <a href="https://twitter.com/sarthakrg14" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakrg14?logo=twitter&style=for-the-badge" alt="sarthakrg14" /></a> </p>
 
-- 🔭 I’m currently working on **my forntend siklls**
+- 🔭 I’m currently working on **my frontend siklls**
 
 - 🌱 I’m currently learning **react,solidity**
 
