@@ -1,6 +1,6 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <h1 align="center">Hi 👋, I'm Sarthak Gaikwad</h1>
-<h3 align="center">Problem solver and fast learner
+<h3 align="center" color="white">Problem solver and fast learner
 with strong communication
 skills. I am motivated to upgrade
 and expand my skill set through
